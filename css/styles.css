@@ -1,0 +1,18 @@
+.search-input{
+    border-right: none;
+}
+
+.search-button{
+    border: 1px solid #ced4da;
+    border-left: none;
+    background-color: white;
+    
+}
+
+.navbar-main-background-color{
+    background-color: #0f3a5d;
+}
+
+.navbar-white-links{
+    color: white;
+}
